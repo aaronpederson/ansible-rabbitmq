@@ -18,3 +18,5 @@ galaxy_info:
       - vivid
   categories:
     - web
+    - networking
+    - cloud
