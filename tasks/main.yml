@@ -6,6 +6,6 @@
   with_items:
     - rabbitmq-server
   tags:
-    - nginx
+    - rabbitmq
     - software-installation
     - using-apt
